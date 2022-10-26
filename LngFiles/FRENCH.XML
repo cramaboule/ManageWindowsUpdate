@@ -1,0 +1,12 @@
+<Form1>Windows DOIT redémarrer !</Form1>
+<Label1>Votre ordinateur a installé des mises à jour et DOIT redémarrer !@CRLFAfin de ne pas perturber votre travail, vous avez le choix entre :@CRLF@CRLF1. Redémarrer à la fin de votre journée : l'ordinateur redémarrera puis installera les mises à jour et s'éteindra tout seul (recommandé dans la plupart des cas).@CRLF@CRLF2. Redémarrer et installer plus tard.@CRLF@CRLF3. Redémarrer maintenant.@CRLF@CRLFQue souhaitez-vous faire ?</Label1>
+<ButtonInstallEndWork>1. Mettre à jour et arrêter@CRLFà la fin de la journée</ButtonInstallEndWork>
+<ButtonSchedule>2. Programmer@CRLFun redémarrage</ButtonSchedule>
+<ButtonRebootLater>2. Redémarrer@CRLFplus tard</ButtonRebootLater>
+<ButtonReboot>3. Redémarrer@CRLFmaintenant</ButtonReboot>
+<Form2>Heure du redémarrage ?</Form2>
+<Label2>A quelle heure ?@CRLF(Heures : Minutes)</Label2>
+<ButtonOK>Ok</ButtonOK>
+<ButtonCancel>Annuler</ButtonCancel>
+<MsgboxTitle>Info</MsgboxTitle>
+<MsgboxTxt>Redémarrage programmé pour le :</MsgboxTxt>

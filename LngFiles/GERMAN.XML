@@ -1,0 +1,12 @@
+<Form1>Windows MUSS neu gestartet werden!</Form1>
+<Label1>Ihr Computer hat Windows Updates installiert und MUSS neu gestartet werden!@CRLFUm Ihre Arbeit nicht zu stören, haben Sie die Wahl zwischen :@CRLF@CRLF1. Neustart am Ende des Arbeitstages : Der Computer wird neu gestartet, installiert die Updates und fährt selbst herunter (in den meisten Fällen empfohlen).@CRLF@CRLF2. Neustart und installieren später.@CRLF@CRLF3. Jetzt neu starten.@CRLF@CRLFWas möchten Sie tun?</Label1>
+<ButtonInstallEndWork>1.Neustart@CRLFam Ende des Tages</ButtonInstallEndWork>
+<ButtonSchedule>Neustart Für@CRLeinen Neustart planen</ButtonSchedule>
+<ButtonRebootLater>2. Später Neustart</ButtonRebootLater>
+<ButtonReboot>3. Neustart jetzt</ButtonReboot>
+<Form2>Zeitpunkt des Neustarts?</Form2>
+<Label2>Zu welcher Zeit?@CRLF(Stunden : Minuten)</Label2>
+<ButtonOK>Ok</ButtonOK>
+<ButtonCancel>Abbrechen</ButtonCancel>
+<MsgboxTitle>Info</MsgboxTitle>
+<MsgboxTxt>Neustart geplant um :</MsgboxTxt>

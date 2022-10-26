@@ -1,0 +1,12 @@
+<Form1>Windows MUST restart!</Form1>
+<Label1>Your computer has installed Windows Updates and MUST restart!@CRLFIn order to not disturb your work, you have the choice between:@CRLF@CRLF1. Reboot at the end of your day: the computer will reboot, install updates and shutdown itself (recommended in most cases).@CRLF@CRLF2. Reboot and install later.@CRLF@CRLF3. Reboot now.@CRLF@CRLFWhat would you like to do?</Label1>
+<ButtonInstallEndWork>1. Update and shut down@CRLFat the end of the day</ButtonInstallEndWork>
+<ButtonSchedule>Schedule@CRLFa reboot</ButtonSchedule>
+<ButtonRebootLater>2. Reboot later</ButtonRebootLater>
+<ButtonReboot>3. Reboot now</ButtonReboot>
+<Form2>Time of reboot ?</Form2>
+<Label2>At what time ?@CRLF(Hours : Minutes)</Label2>
+<ButtonOK>Ok</ButtonOK>
+<ButtonCancel>Cancel</ButtonCancel>
+<MsgboxTitle>Info</MsgboxTitle>
+<MsgboxTxt>Reboot scheduled at :</MsgboxTxt>
