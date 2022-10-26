@@ -19,5 +19,13 @@ As it is custom made you **must** do a few things:
    
 ![mRemoteNG_GW6Z0xKO2f](https://user-images.githubusercontent.com/21193662/198076856-a49a9d34-ba38-4c27-a1a5-b32a4134c273.png)
 
+## Running the program the firt time
+Copy the program anywhere on your PC, then run it. It will automaticaly intall itself at the right place, and setup a schedule every day.
+
+## From the schedule
+The program will be executed and update itself if need it, run the update if build (PC) is different.
+ManageWU can be run manualy.
+
 Enjoy.
+
 C.
