@@ -1,19 +1,25 @@
 [ManageWU]
-Version=20221019090824
+Version=20231207120321
+DateTime=20231207120321
+VersionExe=1.0.1.14
 
 [Windows10-21h2]
-KBfile=windows10.0-kb5018482-x64_38cac1afd61ebc5d4d09f09f2225711aab67d05d.msu
-Version=10.0.19044.2193
+KBfile=windows10.0-kb5015684-x64_523c039b86ca98f2d818c4e6706e2cc94b634c4a.msu
+Version=10.0.19045.9999
 [Windows10-22h2]
-KBfile=windows10.0-kb5018482-x64_38cac1afd61ebc5d4d09f09f2225711aab67d05d.msu
-Version=10.0.19045.2193
-
+KBfile=windows10.0-kb5034843-x64_3ea45debbd7ceb7208ff7b24ab611f6bdee47df9.msu
+Version=10.0.19045.4123
 [Windows11-21h2]
-KBfile=windows10.0-kb5018483-x64_f3ec5802a2445a46703e4b5b879571f4cf0f9d17.msu
-Version=10.0.22000.1165
+KBfile=windows10.0-kb5034766-x64_ac1ebc69d2e46de77599e487153ea535fc637b81.msu
+Version=10.0.22000.2777
 [Windows11-22h2]
-KBfile=windows11.0-kb5018496-x64_e1cceae929062302b508ca0a601a78326cafb6d7.msu
-Version=10.0.22621.755
+KBfile=windows11.0-kb5034848-x64_0aec202b757272ccec67160be23068b6b7bf2c72.msu
+Version=10.0.22621.3235
+[Windows11-23h2]
+KBfile=windows11.0-kb5034848-x64_0aec202b757272ccec67160be23068b6b7bf2c72.msu
+Version=10.0.22631.3235
 
 [ManageWU-dev]
-Version=20221006123324
+Version=20231207114853
+DateTime=20231206200158
+VersionExe=1.0.1.14
